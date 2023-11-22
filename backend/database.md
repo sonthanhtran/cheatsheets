@@ -10,6 +10,20 @@
 </details>
 
 
-There are several normalization levels from 1NF to 6NF.
+<details>
+<summary>Noramalization Forms</summary>
+    There are several normalization levels from 1NF to 6NF. However, in most practical
+    applications, normalization achieves its best in 3rd Normal Form.
+
+    1. **1NF**:
+        - Each table cell should contain a single value
+        - 
+
+</details>
+
+<details>
+<summary></summary>
+</details>
+
 
 
